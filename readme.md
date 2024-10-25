@@ -2,13 +2,13 @@
 This is a single-page CV project built to showcase personal skills, experience, and achievements in a concise and visually appealing format. This project is part of the Roadmap.sh platform, providing a great template for crafting an online CV.
 
 Project URL
-You can view the project on [text](https://roadmap.sh/projects/single-page-cv).
+You can view the project on [roadmap.sh/keytz](https://roadmap.sh/projects/single-page-cv).
 
 ## Project Overview
 The Single-Page CV Project is designed to help users create an effective, professional online CV that can be easily shared and accessed. This project follows best practices in web design to make the information clear and engaging.
 
 ## Features
-Responsive Design: Optimized for both desktop and mobile viewing.
+<li>Responsive Design: Optimized for both desktop and mobile viewing.</li>
 Easy Customization: Modify sections for skills, experience, education, and contact details.
 Clean Layout: Minimalistic and organized layout to highlight key information effectively.
 Technologies Used
