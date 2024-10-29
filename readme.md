@@ -8,14 +8,15 @@ You can view the project on [roadmap.sh/keytz](https://roadmap.sh/projects/singl
 The Single-Page CV Project is designed to help users create an effective, professional online CV that can be easily shared and accessed. This project follows best practices in web design to make the information clear and engaging.
 
 ## Features
-<li>Responsive Design: Optimized for both desktop and mobile viewing.</li>
-Easy Customization: Modify sections for skills, experience, education, and contact details.
-Clean Layout: Minimalistic and organized layout to highlight key information effectively.
-Technologies Used
-HTML5: Structure and semantics of the page.
-CSS3: Styling and layout.
-JavaScript (optional): For additional interactivity (e.g., smooth scrolling or dynamic content).
-How to Use
+<li><b>Responsive Design:</b> Optimized for both desktop and mobile viewing.</li>
+<li><b>Easy Customization:</b> Modify sections for skills, experience, education, and contact details.</li>
+<li><b>Clean Layout:</b> Minimalistic and organized layout to highlight key information effectively.</li>
+##Technologies Used
+<li>  
+<b>HTML5:</b> Structure and semantics of the page.
+</li>
+<li><b>CSS3:</b> Styling and layout.</li>
+*How to Use
 Clone the project or download the files.
 Edit the HTML file to include your personal details, experience, and skills.
 Customize the styling in the CSS file to suit your design preferences.
