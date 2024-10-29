@@ -16,14 +16,14 @@ The Single-Page CV Project is designed to help users create an effective, profes
 <b>HTML5:</b> Structure and semantics of the page.
 </li>
 <li><b>CSS3:</b> Styling and layout.</li>
-*How to Use
-Clone the project or download the files.
-Edit the HTML file to include your personal details, experience, and skills.
-Customize the styling in the CSS file to suit your design preferences.
-Open the HTML file in your browser to view the CV.
-Project Roadmap
-Phase 1: Set up basic HTML structure.
-Phase 2: Style the CV with CSS.
-Phase 3 (Optional): Add JavaScript for interactivity.
-License
+#How to Use
+Clone the project or download the files.<br>
+Edit the HTML file to include your personal details, experience, and skills.<br>
+Customize the styling in the CSS file to suit your design preferences.<br>
+Open the HTML file in your browser to view the CV.<br>
+##Project Roadmap
+Phase 1: Set up basic HTML structure.<br>
+Phase 2: Style the CV with CSS.<br>
+Phase 3 (Optional): Add JavaScript for interactivity.<br>
+###License
 This project is open source and available for anyone to use and modify under the MIT License.
